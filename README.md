@@ -1,5 +1,5 @@
 # Clasificador-de-flores-ornamentales
-Red neuronal que describe la clasificación de flores y plantas de ornato.
+Red neuronal que describe la clasificación de flores y plantas de ornato en Python.
 
 La red estudia imágenes 100 veces para una mayor precisión a la hora de detectar las imágenes de prueba.
 
